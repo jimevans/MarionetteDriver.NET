@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marionette", "Marionette\Marionette.csproj", "{9AEB4C83-5EF4-4FE9-9BF4-A81329E651EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AEB4C83-5EF4-4FE9-9BF4-A81329E651EE}.Debug|x86.ActiveCfg = Debug|x86
+		{9AEB4C83-5EF4-4FE9-9BF4-A81329E651EE}.Debug|x86.Build.0 = Debug|x86
+		{9AEB4C83-5EF4-4FE9-9BF4-A81329E651EE}.Release|x86.ActiveCfg = Release|x86
+		{9AEB4C83-5EF4-4FE9-9BF4-A81329E651EE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
